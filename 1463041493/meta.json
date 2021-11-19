@@ -1,1 +1,1 @@
-{"name": "Syntax Highlighting for Code", "mod": 1538875907, "min_point_version": 0, "max_point_version": 0, "branch_index": 0, "config": {"hotkey": "Alt+s", "limitToLangs": [], "style": "monokai"}}
+{"name": "Syntax Highlighting for Code", "mod": 1538875907, "min_point_version": 0, "max_point_version": 0, "branch_index": 0, "config": {"hotkey": "Alt+s", "limitToLangs": ["HTML", "CSS", "Javascript"], "style": "monokai"}, "disabled": false, "conflicts": [], "update_enabled": true}
